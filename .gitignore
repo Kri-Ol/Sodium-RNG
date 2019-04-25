@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# default CMake build place
+build/
+
+# Microsoft IntelliSense
+.vscode/ipch/
